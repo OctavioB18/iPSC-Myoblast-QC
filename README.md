@@ -70,11 +70,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Optional Cellpose support:
-
-```bash
-pip install -r requirements-cellpose.txt
-```
 
 ## Running the app
 
@@ -84,11 +79,6 @@ From the project root:
 streamlit run app.py
 ```
 
-Then open the local Streamlit URL, usually:
-
-```text
-http://localhost:8501
-```
 
 ## Selecting images
 
